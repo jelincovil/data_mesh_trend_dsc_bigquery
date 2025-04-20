@@ -1,7 +1,5 @@
 # 📊 Data Trends Mesh en BigQuery
 
-## 🇪🇸 Español
-
 ### Descripción  
 Este proyecto consolida en **Google BigQuery** las principales **tendencias en ciencia de datos** (lenguajes, algoritmos, empresas, IA, países, proyectos, librerías) bajo un enfoque **Data Mesh**. Se estructura en dominios temáticos con capas **Bronze–Silver–Gold** para garantizar calidad y reutilización.
 
